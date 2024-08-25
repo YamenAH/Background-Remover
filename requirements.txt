@@ -1,0 +1,5 @@
+fastapi
+uvicorn==0.30.6
+pyngrok
+python-multipart
+backgroundremover
